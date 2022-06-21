@@ -1,0 +1,30 @@
+/*
+.one{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+}
+ 
+.two{
+    color: black;
+    background-color: yellow; 
+}
+
+*/
+
+.one,
+.two{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+.one{
+    color: white;
+    background-color: black;
+}
+ 
+.two{
+    color: black;
+    background-color: yellow; 
+}

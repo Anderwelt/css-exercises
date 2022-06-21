@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.n1{
+    background-color: lightcoral;
+}
+
+#n2{
+    font-size: 30px;
+    font-weight: 650;
+    color: blue;
+}
+
+.n3{
+    font-size: 22px;
+}
+
+#n4{
+    background-color: lightgreen;
+    font-size: 20px;
+    font-weight: 800;
+}
+
